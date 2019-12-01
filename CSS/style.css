@@ -1,0 +1,17 @@
+header {
+ background-color: aquamarine;
+ color: bisque;
+}
+h2  {
+    color: cadetblue;
+}
+p {
+    color:chartreuse;
+}
+html {
+    background-color: lightgoldenrodyellow;
+}
+ul li:first-child {
+
+    background-color: lightsalmon;
+}
