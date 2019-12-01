@@ -10,20 +10,21 @@ li {
     color:aquamarine;
 
 }
-h2 p {
+h2 + p:hover{
     color: wheat;
     text-align: center;
     border:greenyellow 5px dashed;
     cursor: pointer;
 }
 p {
-    color: rgba(53, 212, 212, 0.753);
+    color: rgba(53, 212, 212, 0.753 /* !important*/);
+    
 }
 li{
     list-style: none;
     display:inline-block;
 }
-.webtext{
+.webtext:last-child {
     border: deepskyblue 5px dashed;
 }
 .active {
