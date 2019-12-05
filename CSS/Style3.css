@@ -25,6 +25,14 @@ p {
    font-weight: bold;
    font-size: 80%;
    font-family: 'Zilla Slab', serif;
+}
+img {
+    float: left;
+} 
+footer {
+    clear: both;
+    text-align: center;
+}
 li {
     list-style: lower-greek;
     display: inline-block;
