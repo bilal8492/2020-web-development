@@ -1,0 +1,11 @@
+h2{
+    color: aquamarine;
+}
+ .boxmodel {
+    border: 5px solid teal;
+    display:inline-block;
+    padding: 5px 20px ;
+    margin: 5px 20px 5px 20px;
+    width: 33px;
+    height: 55px;
+}
