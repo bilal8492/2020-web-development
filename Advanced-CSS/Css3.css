@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+h1{
+    font-family: monospace;
+    font-size: 3em;
+    border-bottom: 2px dotted lime;
+    border-right: lawngreen dotted 2px;
+    width: 400px;
+    text-align: center;
+    box-shadow: lightseagreen 4px 5px 4px;
+    margin-top: 10px;
+
+}
+
+img{
+    width: 500px;
+    height: 500px;
+    margin: 2px;
+    transition: 1s;
+}
+img:hover {
+    transform: scale(1.2);
+}
